@@ -24,7 +24,7 @@ cd shadow-reth
 
 ### Step 2: Configure your shadow node
 
-To quickly get started, you can use the example `shadow.json` file in this repository. It contains recompiled bytecode for the WETH contract with an added `ShadowTransfer` event.
+To start quickly, you can use this repository's example `shadow.json` file. It contains recompiled bytecode for the WETH contract with an added `ShadowTransfer` event.
 
 ```bash
 cp shadow.json.example shadow.json
